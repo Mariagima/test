@@ -3,8 +3,8 @@
 #List of students:
 1.
 2.
-3.Calayca, Maria Gima Y.
+3.
 5.
 6.
-7.
+7.Jo, Mark Genesis
 
